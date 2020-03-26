@@ -30,10 +30,8 @@ public class Cannon : MonoBehaviour
 
     public void Fire()
     {
-
         float ShootPower = firepower * 1000;
         GameObject CannonBallCopy = Instantiate(CannonBall, ShootPoint.position, ShootPoint.rotation) as GameObject;
-        Destroy(CannonBallCopy, 5f);
         CannonBallRB = CannonBallCopy.GetComponent<Rigidbody>();
         CannonBallRB.AddForce(transform.forward * ShootPower);
    

@@ -118,7 +118,8 @@ SpringJoint:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5913095221504047122}
-  m_ConnectedBody: {fileID: 0}
+  m_ConnectedBody: {fileID: 4565341657272276406, guid: a63c66cf6874f464cb8b569cf7e205aa,
+    type: 3}
   m_Anchor: {x: 0, y: 0.5, z: 0}
   m_AutoConfigureConnectedAnchor: 1
   m_ConnectedAnchor: {x: 7.137001, y: 2.6000004, z: 2.249999}
