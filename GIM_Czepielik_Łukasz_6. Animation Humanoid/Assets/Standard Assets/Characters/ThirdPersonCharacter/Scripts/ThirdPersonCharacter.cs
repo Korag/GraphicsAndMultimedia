@@ -43,7 +43,7 @@ namespace UnityStandardAssets.Characters.ThirdPerson
 		}
 
 
-		public void Move(Vector3 move, bool crouch, bool jump)
+		public void Move(Vector3 move, bool crouch, bool jump, bool headToLeft, bool headToRight)
 		{
 
 			// convert the world relative moveInput vector into a local-relative
@@ -72,7 +72,7 @@ namespace UnityStandardAssets.Characters.ThirdPerson
 			PreventStandingInLowHeadroom();
 
 			// send input and other state parameters to the animator
-			UpdateAnimator(move);
+			UpdateAnimator(move, headToLeft, headToRight);
 		}
 
 
@@ -115,7 +115,7 @@ namespace UnityStandardAssets.Characters.ThirdPerson
 		}
 
 
-		void UpdateAnimator(Vector3 move)
+		void UpdateAnimator(Vector3 move, bool headToLeft, bool headToRight)
 		{
 			// update the animator parameters
 			m_Animator.SetFloat("Forward", m_ForwardAmount, 0.1f, Time.deltaTime);
@@ -126,6 +126,9 @@ namespace UnityStandardAssets.Characters.ThirdPerson
 			{
 				m_Animator.SetFloat("Jump", m_Rigidbody.velocity.y);
 			}
+
+			m_Animator.SetBool("RotateHeadToLeftSide", headToLeft);
+			m_Animator.SetBool("RotateHeadToRightSide", headToRight);
 
 			// calculate which leg is behind, so as to leave that leg trailing in the jump animation
 			// (This code is reliant on the specific run cycle offset in our animations,

@@ -50,6 +50,9 @@ namespace UnityStandardAssets.Characters.ThirdPerson
             float v = CrossPlatformInputManager.GetAxis("Vertical");
             bool crouch = Input.GetKey(KeyCode.C);
 
+            bool headToLeft = Input.GetKey(KeyCode.O);
+            bool headToRight = Input.GetKey(KeyCode.P);
+
             // calculate move direction to pass to character
             if (m_Cam != null)
             {
@@ -68,7 +71,8 @@ namespace UnityStandardAssets.Characters.ThirdPerson
 #endif
 
             // pass all parameters to the character control script
-            m_Character.Move(m_Move, crouch, m_Jump);
+            m_Character.Move(m_Move, crouch, m_Jump,
+                headToLeft, headToRight);
             m_Jump = false;
         }
     }
