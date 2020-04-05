@@ -163,31 +163,31 @@
     <None Include="Assets\Standard Assets\Vehicles\Car\Shaders\ReflectiveDiffuseSpec.shader" />
     <None Include="Assets\Standard Assets\Fonts\OpenSans\License!.txt" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>E:/Projects/Visual Studio 2019/GIM_Czepielik_Łukasz_5. Animation/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>E:/Projects/Visual Studio 2019/GraphicsAndMultimedia/GIM_Czepielik_Łukasz_5. Animation/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>E:/Projects/Visual Studio 2019/GIM_Czepielik_Łukasz_5. Animation/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>E:/Projects/Visual Studio 2019/GraphicsAndMultimedia/GIM_Czepielik_Łukasz_5. Animation/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>E:/Projects/Visual Studio 2019/GIM_Czepielik_Łukasz_5. Animation/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>E:/Projects/Visual Studio 2019/GraphicsAndMultimedia/GIM_Czepielik_Łukasz_5. Animation/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>E:/Projects/Visual Studio 2019/GIM_Czepielik_Łukasz_5. Animation/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>E:/Projects/Visual Studio 2019/GraphicsAndMultimedia/GIM_Czepielik_Łukasz_5. Animation/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>E:/Projects/Visual Studio 2019/GIM_Czepielik_Łukasz_5. Animation/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>E:/Projects/Visual Studio 2019/GraphicsAndMultimedia/GIM_Czepielik_Łukasz_5. Animation/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>E:/Projects/Visual Studio 2019/GIM_Czepielik_Łukasz_5. Animation/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>E:/Projects/Visual Studio 2019/GraphicsAndMultimedia/GIM_Czepielik_Łukasz_5. Animation/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>E:/Projects/Visual Studio 2019/GIM_Czepielik_Łukasz_5. Animation/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>E:/Projects/Visual Studio 2019/GraphicsAndMultimedia/GIM_Czepielik_Łukasz_5. Animation/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>E:/Projects/Visual Studio 2019/GIM_Czepielik_Łukasz_5. Animation/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>E:/Projects/Visual Studio 2019/GraphicsAndMultimedia/GIM_Czepielik_Łukasz_5. Animation/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>E:/Projects/Visual Studio 2019/GIM_Czepielik_Łukasz_5. Animation/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>E:/Projects/Visual Studio 2019/GraphicsAndMultimedia/GIM_Czepielik_Łukasz_5. Animation/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>E:/Programy/Unity/2019.3.4f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
