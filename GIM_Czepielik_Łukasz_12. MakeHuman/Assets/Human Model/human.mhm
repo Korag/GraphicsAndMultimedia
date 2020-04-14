@@ -1,0 +1,117 @@
+# Written by MakeHuman 1.1.1
+version v1.1.1
+tags human
+camera 12.0 359.5 0.122996001195 -0.00698640271977 -0.0515403240061 1.175
+modifier torso/torso-vshape-decr|incr -0.266000
+modifier armslegs/l-hand-fingers-length-decr|incr 0.334000
+modifier armslegs/l-leg-valgus-decr|incr 0.360000
+modifier mouth/mouth-dimples-in|out 0.756000
+modifier breast/breast-trans-down|up 1.000000
+modifier nose/nose-width1-decr|incr -0.360000
+modifier ears/l-ear-lobe-decr|incr 0.306000
+modifier armslegs/r-foot-scale-decr|incr -0.088000
+modifier ears/r-ear-shape-pointed|triangle -0.034000
+modifier nose/nose-trans-backward|forward 0.892000
+modifier macrodetails-universal/Muscle 0.265000
+modifier mouth/mouth-scale-horiz-decr|incr 0.564000
+modifier macrodetails/African 0.007000
+modifier armslegs/r-leg-valgus-decr|incr 0.402000
+modifier neck/neck-trans-down|up 0.116000
+modifier macrodetails-proportions/BodyProportions 0.531000
+modifier chin/chin-width-decr|incr 0.170000
+modifier mouth/mouth-laugh-lines-in|out -0.564000
+modifier torso/torso-scale-horiz-decr|incr -0.292000
+modifier torso/torso-trans-backward|forward 0.048000
+modifier neck/neck-scale-horiz-decr|incr -1.000000
+modifier armslegs/r-hand-fingers-length-decr|incr 0.088000
+modifier nose/nose-trans-down|up -1.000000
+modifier eyes/r-eye-bag-decr|incr 0.674000
+modifier macrodetails/Gender 0.789000
+modifier armslegs/l-upperarm-shoulder-muscle-decr|incr 0.620000
+modifier head/head-angle-in|out -0.224000
+modifier forehead/forehead-trans-backward|forward 0.592000
+modifier pelvis/bulge-decr|incr 0.130000
+modifier nose/nose-point-width-decr|incr 1.000000
+modifier macrodetails-height/Height 0.531000
+modifier breast/BreastSize 0.000000
+modifier armslegs/l-hand-fingers-diameter-decr|incr 0.728000
+modifier mouth/mouth-scale-vert-decr|incr -0.388000
+modifier ears/r-ear-scale-decr|incr 0.552000
+modifier chin/chin-cleft-decr|incr 0.632000
+modifier armslegs/r-hand-fingers-diameter-decr|incr -0.210000
+modifier torso/torso-muscle-dorsi-decr|incr -0.102000
+modifier armslegs/l-foot-scale-decr|incr -0.116000
+modifier armslegs/l-hand-scale-decr|incr 0.062000
+modifier nose/nose-base-down|up 0.334000
+modifier eyes/l-eye-bag-decr|incr 0.742000
+modifier torso/torso-muscle-pectoral-decr|incr 0.552000
+modifier forehead/forehead-scale-vert-decr|incr -0.088000
+modifier nose/nose-nostrils-width-decr|incr -0.170000
+modifier macrodetails/Age 0.626000
+modifier neck/neck-double-decr|incr -1.000000
+modifier breast/BreastFirmness 0.000000
+modifier stomach/stomach-navel-down|up -0.414000
+modifier neck/neck-back-scale-depth-decr|incr -0.796000
+modifier macrodetails/Asian 0.007000
+modifier eyebrows/eyebrows-angle-down|up -0.062000
+modifier armslegs/lowerlegs-height-decr|incr -0.088000
+modifier nose/nose-scale-depth-decr|incr -0.184000
+modifier armslegs/r-hand-scale-decr|incr 0.062000
+modifier armslegs/l-hand-trans-in|out -0.184000
+modifier armslegs/l-hand-fingers-distance-decr|incr -0.402000
+modifier neck/neck-trans-backward|forward -0.116000
+modifier forehead/forehead-temple-decr|incr -0.428000
+modifier head/head-fat-decr|incr -0.918000
+modifier armslegs/upperlegs-height-decr|incr -0.088000
+modifier armslegs/r-foot-trans-backward|forward 0.034000
+modifier armslegs/l-foot-trans-backward|forward 0.278000
+modifier head/head-age-decr|incr -1.000000
+modifier macrodetails/Caucasian 0.986000
+modifier armslegs/r-upperarm-shoulder-muscle-decr|incr 0.632000
+modifier nose/nose-trans-in|out -0.048000
+modifier chin/chin-jaw-drop-decr|incr 1.000000
+modifier nose/nose-curve-concave|convex -0.414000
+modifier hip/hip-scale-horiz-decr|incr -0.224000
+modifier ears/l-ear-scale-vert-decr|incr 0.306000
+modifier torso/torso-scale-depth-decr|incr -0.442000
+modifier stomach/stomach-navel-in|out -0.320000
+modifier nose/nose-scale-vert-decr|incr -0.062000
+modifier armslegs/r-hand-fingers-distance-decr|incr -0.742000
+modifier buttocks/buttocks-volume-decr|incr 0.564000
+modifier hip/hip-scale-vert-decr|incr 0.034000
+modifier nose/nose-compression-compress|uncompress -0.062000
+modifier head/head-rectangular 0.238000
+modifier mouth/mouth-upperlip-height-decr|incr 0.402000
+modifier eyebrows/eyebrows-trans-backward|forward 0.170000
+modifier armslegs/r-hand-trans-in|out -0.116000
+modifier ears/l-ear-scale-decr|incr 0.414000
+modifier armslegs/r-lowerarm-scale-depth-decr|incr -0.088000
+modifier eyebrows/eyebrows-trans-down|up -0.306000
+modifier nose/nose-scale-horiz-decr|incr 0.184000
+modifier forehead/forehead-nubian-decr|incr -0.210000
+modifier macrodetails-universal/Weight 0.367000
+modifier mouth/mouth-trans-backward|forward -0.700000
+modifier hip/hip-trans-backward|forward -0.266000
+modifier pelvis/pelvis-tone-decr|incr 0.972000
+modifier ears/r-ear-scale-depth-decr|incr -0.048000
+modifier mouth/mouth-scale-depth-decr|incr -0.102000
+modifier nose/nose-width2-decr|incr -0.578000
+modifier mouth/mouth-lowerlip-height-decr|incr 0.252000
+modifier head/head-trans-down|up -0.592000
+modifier stomach/stomach-pregnant-decr|incr -0.552000
+modifier nose/nose-width3-decr|incr 0.210000
+modifier ears/r-ear-lobe-decr|incr 0.292000
+modifier hip/hip-waist-down|up 0.620000
+tongue tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c
+teeth Teeth_Shape05 c6096ff1-46b6-4fdf-b992-49c1bc67f18b
+hair short01 766436e9-63ed-4f6a-afa9-99f3acff70a8
+skeleton cmu_mb.mhskel
+eyebrows eyebrow008 79ea307f-a942-40dd-bf50-bbaa41f02034
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+clothes shoes01 6e0c552e-e207-44df-8f70-c9bfdeddd8c6
+clothes male_casualsuit01 79ced554-1d8a-4c14-a6a8-e1de90b09c32
+clothesHideFaces True
+skinMaterial skins/middleage_asian_male/middleage_asian_male.mhmat
+material short01 766436e9-63ed-4f6a-afa9-99f3acff70a8 short01.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/brown.mhmat
+subdivide False
